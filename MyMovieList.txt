@@ -1,0 +1,25 @@
+Purpose:
+The prupose of my application is to allow users to keep track of their personal list of movies they want to watch and movies they want to watch
+and movies they have watched. The application is separated into two tabs for movies you have and haven't watched.
+
+How to use:
+Add: To add a movie simply type in the movie title and select a genre then hit add movie.
+Edit: To edit select a movie edit the information at the top then hit the edit button.
+Delete: Select a movie then hit the delete button.
+Comments: Select a movie then click the comment button type in your comment and hit the add comment button. 
+OMDB: To view information from the OMDB database select a movie then hit the OMDB Info Button. If that title exist in the database information
+      about the movie and a poster will appear.
+Watched?: The watched button allows you to transfer a move from the want to watch to the have watched section. Simply review the movie, and the
+	  the movie will be transfered to the watched tab.
+Review: The review button allows you to change your review of a movie and add your personal review of a movie. This button only exists on the 
+	watched page.
+Favorite: The favorite button allows you to favorite a movie, so you can sort by those movies and keep a list of favorites in the watched section.
+Search: The search bar searches for movie titles that contain the searched key words.
+Sort By: Allows you to sort by ascending or descending order based on title, genre, date (want to watch), or rating (watched).
+Double Click: If you double click on a selected movie it will google search that movie. This feature allows you to quickly search up a movie
+	      for even further information and ease of use.
+
+File: You can save your movie lists into a file to be reviewed and stored for later. All the buttons in the file menu work as you would expect
+      in other programs.
+
+Packages or Libraries: I didn't use any packages or libraries to create this program.
